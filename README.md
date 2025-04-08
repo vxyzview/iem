@@ -4,7 +4,8 @@ Selamat datang! Dokumen ini berisi pengaturan equalizer (EQ) khusus untuk earpho
 
 - 🎵 **7Hz Salnotes Zero**  
 - 🎵 **Kinera Wyvern Pro**  
-- 🎵 **SoundPEATS Clear**  
+- 🎵 **SoundPEATS Clear**
+- 🎵 **Moondrop Chu 2**
 - 🎵 **KZ Castor (Hanya Versi Bass/Black)**  
 
 Semua nilai dalam **desibel (dB)** dan sesuai dengan rentang frekuensi tertentu (**Hz**). Yuk, coba dan nikmati suara terbaik sesuai selera Anda!  
@@ -25,7 +26,7 @@ Pengaturan EQ ini bersifat subjektif dan dibuat berdasarkan preferensi pribadi. 
 
 ## 🎵 7Hz Salnotes Zero
 
-| Frekuensi (Hz) | ASMR Tingly | ASMR Umum | All-Rounder | Vokal & Pop |
+| Frekuensi (Hz) | ASMR Tingly | ASMR Umum | Balanced | Vokal & Pop |
 |----------------|-------------|-----------|-------------|-------------|
 | 31 Hz         | -2 dB       | -1 dB     | +3 dB       | +2.5 dB     |
 | 62 Hz         | -1.5 dB     | -0.5 dB   | +2.5 dB     | +2 dB       |
@@ -42,7 +43,7 @@ Pengaturan EQ ini bersifat subjektif dan dibuat berdasarkan preferensi pribadi. 
 
 ## 🎵 Kinera Wyvern Pro
 
-| Frekuensi (Hz) | ASMR (dB) | ASMR Tingly (dB) | All-Rounder (dB) |
+| Frekuensi (Hz) | ASMR | ASMR Tingly | Balanced |
 |----------------|-----------|------------------|------------------|
 | 31 Hz         | -2 dB     | -3 dB            | +2 dB            |
 | 62 Hz         | -2 dB     | -3 dB            | 0 dB             |
@@ -73,6 +74,21 @@ Pengaturan EQ ini bersifat subjektif dan dibuat berdasarkan preferensi pribadi. 
 | 16 kHz        | +1 dB                      | +2 dB                   | +3 dB                 | +1 dB                   |
 
 ---
+
+## Moondrop Chu 2 
+
+| Frekuensi (Hz) | Balanced | ASMR Detail | Tingly ASMR |
+|-----------|-----------|-------------|-------------|
+| 31 Hz     |   +2      |     -2      |     -3      |
+| 62 Hz     |   +2      |     -1      |     -2      |
+| 125 Hz    |   +1      |      0      |     -1      |
+| 250 Hz    |    0      |      0      |      0      |
+| 500 Hz    |   -1      |     +1      |     +1      |
+| 1 kHz     |   -1      |     +1      |     +2      |
+| 2 kHz     |    0      |     +2      |     +3      |
+| 4 kHz     |   +1      |     +3      |     +4      |
+| 8 kHz     |   +2      |     +4      |     +5      |
+| 16 kHz    |   +2      |     +3      |     +4      |
 
 ## 🎵 KZ Castor (Hanya Versi Bass/Black)
 
