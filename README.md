@@ -1,29 +1,29 @@
-# Pengaturan EQ untuk Earphone
+# 🎧 Pengaturan EQ untuk Earphone
 
-Dokumen ini berisi pengaturan equalizer (EQ) khusus untuk berbagai earphone, yang dioptimalkan untuk pengalaman mendengarkan tertentu seperti ASMR, vokal, dan suara seimbang. Pengaturan ini dibuat untuk earphone berikut:
+Selamat datang! Dokumen ini berisi pengaturan equalizer (EQ) khusus untuk earphone favorit Anda, dirancang untuk meningkatkan pengalaman mendengarkan seperti **ASMR**, **vokal**, atau **suara seimbang**. Pengaturan ini dioptimalkan untuk:
 
-- 7Hz Salnotes Zero
-- Kinera Wyvern Pro
-- SoundPEATS Clear
-- KZ Castor (Hanya Versi Bass/Black)
+- 🎵 **7Hz Salnotes Zero**  
+- 🎵 **Kinera Wyvern Pro**  
+- 🎵 **SoundPEATS Clear**  
+- 🎵 **KZ Castor (Hanya Versi Bass/Black)**  
 
-Semua nilai dalam desibel (dB) dan sesuai dengan rentang frekuensi tertentu (Hz).
-
----
-
-## Disclaimer
-
-Pengaturan EQ ini bersifat subjektif dan dibuat berdasarkan preferensi pribadi. Hasilnya mungkin berbeda tergantung pada perangkat audio, sumber suara, atau selera masing-masing pengguna. Kami tidak bertanggung jawab atas ketidakpuasan atau kerusakan perangkat yang mungkin terjadi akibat penggunaan pengaturan ini. Silakan sesuaikan sesuai kebutuhan Anda.
+Semua nilai dalam **desibel (dB)** dan sesuai dengan rentang frekuensi tertentu (**Hz**). Yuk, coba dan nikmati suara terbaik sesuai selera Anda!  
 
 ---
 
-## Hak Cipta
+## ⚠️ Disclaimer
 
-Copyright © 2025 @vxyzview. Anda diperbolehkan menggunakan pengaturan ini untuk keperluan pribadi, tetapi dilarang mencuri, mendistribusikan ulang, atau mengklaim sebagai milik Anda tanpa izin tertulis dari @vxyzview. Segala pelanggaran akan ditindak sesuai hukum yang berlaku.
+Pengaturan EQ ini bersifat subjektif dan dibuat berdasarkan preferensi pribadi. Hasilnya bisa berbeda tergantung perangkat audio, sumber suara, atau selera Anda. Kami tidak bertanggung jawab atas ketidakpuasan atau kerusakan perangkat akibat penggunaan pengaturan ini. Silakan sesuaikan sesuai kebutuhan Anda!  
 
 ---
 
-## 7Hz Salnotes Zero
+## © Hak Cipta
+
+© 2025 **@vxyzview**. Anda boleh menggunakan pengaturan ini untuk keperluan pribadi, tetapi **dilarang mencuri**, mendistribusikan ulang, atau mengklaim sebagai milik Anda tanpa izin tertulis dari **@vxyzview**. Pelanggaran akan ditindak sesuai hukum yang berlaku.  
+
+---
+
+## 🎵 7Hz Salnotes Zero
 
 | Frekuensi (Hz) | ASMR Tingly | ASMR Umum | All-Rounder | Vokal & Pop |
 |----------------|-------------|-----------|-------------|-------------|
@@ -40,7 +40,7 @@ Copyright © 2025 @vxyzview. Anda diperbolehkan menggunakan pengaturan ini untuk
 
 ---
 
-## Kinera Wyvern Pro
+## 🎵 Kinera Wyvern Pro
 
 | Frekuensi (Hz) | ASMR (dB) | ASMR Tingly (dB) | All-Rounder (dB) |
 |----------------|-----------|------------------|------------------|
@@ -57,7 +57,7 @@ Copyright © 2025 @vxyzview. Anda diperbolehkan menggunakan pengaturan ini untuk
 
 ---
 
-## SoundPEATS Clear
+## 🎵 SoundPEATS Clear
 
 | Frekuensi (Hz) | ASMR - Calming & Immersive | ASMR - Detail & Clarity | ASMR - Tingly & Crisp | Balanced & Clear Boost |
 |----------------|----------------------------|-------------------------|-----------------------|-------------------------|
@@ -74,7 +74,7 @@ Copyright © 2025 @vxyzview. Anda diperbolehkan menggunakan pengaturan ini untuk
 
 ---
 
-## KZ Castor (Hanya Versi Bass/Black)
+## 🎵 KZ Castor (Hanya Versi Bass/Black)
 
 | Frekuensi (Hz) | Balanced | Vokal/Akustik | ASMR | Tingly ASMR |
 |----------------|----------|---------------|------|-------------|
@@ -91,7 +91,11 @@ Copyright © 2025 @vxyzview. Anda diperbolehkan menggunakan pengaturan ini untuk
 
 ---
 
-## Catatan
-- Pengaturan ini dapat disesuaikan berdasarkan preferensi pribadi atau sumber audio yang digunakan.
-- Gunakan pengaturan ini pada aplikasi equalizer atau perangkat keras yang mendukung rentang frekuensi tersebut.
-- Masukan atau pengaturan tambahan sangat dihargai!
+## 📝 Catatan Penting
+- **Sesuaikan Sesuka Hati**: Pengaturan ini bisa diubah sesuai preferensi Anda atau sumber audio yang digunakan.  
+- **Kompatibilitas**: Gunakan pada aplikasi equalizer atau perangkat keras yang mendukung rentang frekuensi ini.  
+- **Saran?**: Masukan atau pengaturan tambahan sangat dihargai! Hubungi @vxyzview untuk berbagi ide.  
+
+---
+
+**Nikmati pengalaman mendengarkan yang lebih baik dengan pengaturan ini! 🎶**
